@@ -1,0 +1,6 @@
+{
+  "name": "Transmissor de Arquivos TCP",
+  "description": "Painel web para transmissão rápida de arquivos via protocolo TCP Java Socket com monitor em tempo real e receptor de testes integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
